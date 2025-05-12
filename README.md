@@ -21,7 +21,7 @@ This site is being built with 💛 love, React, and a touch of magic.
 ---
 
 ### Phase 2 – Backend Integration (Optional Later)
-- 🔐 Guest authentication for private access to photos or RSVP
+- 🔐 Guest authentication system for private access to photos or RSVP
 - 📥 Custom file upload portal for guests to submit photos
 - 🛠 Admin dashboard to manage gallery and uploads
 - 📈 Real-time RSVP and submission tracking
